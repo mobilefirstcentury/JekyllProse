@@ -1,7 +1,9 @@
 ---
 published: false
 title: My Second one
+layout: post
 ---
+
 
 ## This is a new post my friend
 Markdown is really the cool kid on the blog
@@ -14,4 +16,3 @@ Of course!
 ![Me, me and me]({{site.baseurl}}/_posts/2016-02-10-221729.jpg)
 
 > This is pretty amzing!
-
